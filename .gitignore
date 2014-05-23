@@ -1,0 +1,9 @@
+.#*
+*~
+desktop.ini
+id_rsa
+id_rsa.pub
+output.xml
+report.html
+*.png
+log.html
