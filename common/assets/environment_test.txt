@@ -4,5 +4,5 @@ ${AUTH_URL}    https://auth.forgeservicelab.fi
 ${GIT_URL}    https://gitlab-test.forgeservicelab.fi
 ${REDMINE_URL}    https://support.forgeservicelab.fi
 ${OPENSTACK_URL}    https://cloud.forgeservicelab.fi
-${REPORT_URL}    https://${TARGET_IP}:8080/birt-viewer/run?__report=forge_birt_reports/forge_issues_status.rptdesign&sample=my+parameter
+${REPORT_URL}    http://${TARGET_IP}:8080/birt-viewer/run?__report=forge_birt_reports/forge_issues_status.rptdesign&sample=my+parameter
 
