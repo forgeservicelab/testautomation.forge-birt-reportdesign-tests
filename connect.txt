@@ -9,6 +9,7 @@ Resource    local_resource.txt
 
 *** Test Cases ***
 BIRT web page access
+    Sleep 10s
     Wait Until Page Contains    FORGE project status report
 
 *** Keyword ***
