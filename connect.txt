@@ -8,8 +8,11 @@ Resource    local_resource.txt
 *** Variables ***
 
 *** Test Cases ***
-BIRT web page access
+
+Pause for 10 secs
     Sleep 10s
+
+BIRT web page access
     Wait Until Page Contains    FORGE project status report
 
 *** Keyword ***
