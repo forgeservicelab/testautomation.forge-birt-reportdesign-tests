@@ -13,5 +13,6 @@ BIRT web page access
 
 *** Keyword ***
 Go to homepage
-    Open Browser    ${REPORT_URL}    ${BROWSER}
+    Open Browser    ${REPORT_URL}    ${BROWSER}	remote_url=http://${SELENIUM_HOST}:${SELENIUM_PORT}/wd/hub
+
 
