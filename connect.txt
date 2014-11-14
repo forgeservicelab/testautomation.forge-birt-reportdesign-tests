@@ -10,7 +10,7 @@ Resource    local_resource.txt
 *** Test Cases ***
 
 Pause for 10 secs
-    Sleep 10s
+    Sleep    10s
 
 BIRT web page access
     Wait Until Page Contains    FORGE project status report
