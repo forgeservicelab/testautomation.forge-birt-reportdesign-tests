@@ -29,3 +29,7 @@ Prerequisites
     TARGET_IP [ip of the BIRT machine to be tested]
     REPORT_URL [the location where the BIRT report can be accessed from]
     ENV  [test, prod]
+
+### Author
+
+Pasi Kivikangas, DIGILE Ltd.
